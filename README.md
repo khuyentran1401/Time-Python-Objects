@@ -8,4 +8,5 @@ Timing is one of the methods to ananlyze the performance of different Python's o
 - Duration of .pop(0) increases while the duration of .pop() stays nearly the same.
 _ Concating is much less effective than other methods when creating a list
 
-# Article of this repository: https://towardsdatascience.com/timing-the-performance-to-choose-the-right-python-object-for-your-data-science-project-670db6f11b8e
+# Article of this repository: 
+https://towardsdatascience.com/timing-the-performance-to-choose-the-right-python-object-for-your-data-science-project-670db6f11b8e
